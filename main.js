@@ -1,1 +1,1 @@
-module.exports = 'Github dummy package!';
+module.exports = 'Github dummy package!!';
